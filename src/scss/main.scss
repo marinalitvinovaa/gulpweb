@@ -1,0 +1,10 @@
+@import './base/reset';
+@import './base/vars';
+@import './base/base';
+@import './base/utils';
+@import './base/containers';
+@import './base/fonts';
+@import './base/sticky-footer';
+
+//blocks
+@import './blocks/*.scss';
